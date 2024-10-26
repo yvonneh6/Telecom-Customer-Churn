@@ -1,2 +1,1 @@
-# Telecom-Churn
-- Data: https://www.kaggle.com/datasets/abhinav89/telecom-customer
+- Reference: https://www.kaggle.com/datasets/abhinav89/telecom-customer

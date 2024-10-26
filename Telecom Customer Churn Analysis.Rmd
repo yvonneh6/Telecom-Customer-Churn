@@ -1,6 +1,6 @@
 ---
 title: "Telecom Customer Churn Prediction"
-author: "Xiaoying Yang, Bo Yang, Yin Tip Ho"
+author: "Xiaoying Yang, Bo Yang, Yvonne Ho"
 date: "4/28/2022"
 output: html_document
 ---
